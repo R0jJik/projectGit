@@ -1,3 +1,2 @@
 print("I'am Learn git");
-print("I")
-
+print("I've corrected the text")
